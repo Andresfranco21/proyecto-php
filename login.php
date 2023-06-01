@@ -29,13 +29,9 @@ if ($_POST) {
 </head>
 
 <body>
-
-
-
     <a href="https://front.codes/" class="logo" target="_blank">
         <img src="https://assets.codepen.io/1462889/fcy.png" alt="">
     </a>
-
     <div class="section">
         <div class="container">
             <div class="row full-height justify-content-center">
@@ -73,40 +69,6 @@ if ($_POST) {
             </div>
         </div>
     </div>
-    </div>
-
-</body>
-
-<!-- </html>
-
-    <div class="container">
-        <div class="row justify-content-center align-items-center g-2">
-            <div class="col-md-4">
-
-            </div>
-            <div class="col-md-4">
-                <br />
-                <div class="card">
-                    <div class="card-header">
-                        Iniciar Sesion
-                    </div>
-                    <div class="card-body">
-                        <form action="login.php" method="post">
-                            usuario: <input class="form-control" type="text" name="usuario" id="">
-                            Contrasena: <input class="form-control" type="password" name="contrasena" id="">
-                            <br />
-                            <a href="#" class="btn mt-4">submit</a>
-                            <button class="btn mt-4" type="submit">Entrar</button>
-                        </form>
-                    </div>
-                    <div class="card-footer text-muted">
-
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-
-            </div>
-        </div>
-
-    </div> -->
+  </div>
+ </body>
+</html>
