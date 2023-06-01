@@ -35,11 +35,3 @@ if (isset($_SESSION['usuario']) != 'andres') {
             </div>
         </div>
     </nav>
-
-
-
-
-    <!-- <div class="container">    
-    <a href="index.php">Inicio</a>
-    <a href="portafolio.php">Portafolio</a>
-    <a href="cerrar.php">Cerrar </a>  -->
